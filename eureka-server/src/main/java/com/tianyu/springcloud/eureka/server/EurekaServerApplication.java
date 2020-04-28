@@ -1,11 +1,11 @@
-package com.jourwon.springcloud;
+package com.tianyu.springcloud.eureka.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 /**
- * Description:Eureka
+ * Description:Eureka Server
  *
  * @author Tianyu
  * @date 2020/04/01
